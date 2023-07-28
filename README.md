@@ -14,7 +14,7 @@ The Robot Manipulator Project is an implementation of a robotic arm using RoboDK
 
 1. Install [RoboDK](https://www.robodk.com/download): Download and install the latest version of RoboDK from the official website.
 
-2. Clone this repository to your local machine: `[git clone https://github.com/your-username/robot-manipulator.git](https://github.com/AnukaMithara/Robot-Manipulator-using-RoboDK.git)`
+2. Clone this repository to your local machine: [git clone https://github.com/your-username/robot-manipulator.git](https://github.com/AnukaMithara/Robot-Manipulator-using-RoboDK.git)
 
 
 ## Usage
