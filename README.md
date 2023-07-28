@@ -1,7 +1,5 @@
 # Robot Manipulator Project
 
-![Robot Manipulator](path/to/robot_image.png)
-
 ## Description
 
 The Robot Manipulator Project is an implementation of a robotic arm using RoboDK software. 
