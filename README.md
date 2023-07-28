@@ -31,4 +31,4 @@ The Robot Manipulator Project is an implementation of a robotic arm using RoboDK
 
 
 
-© [Anukam Mithara](https://github.com/Anuka Mithara)
+© [Anukam Mithara](https://github.com/AnukaMithara)
