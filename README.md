@@ -28,4 +28,4 @@ The Robot Manipulator Project is an implementation of a robotic arm using RoboDK
 4. Run the Program: Run the robotic arm program to execute predefined tasks or control the robot using the provided interface.
 
 
-© [Your Name](https://github.com/your-username)
+© [Anukam Mithara](https://github.com/your-username)
